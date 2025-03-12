@@ -1,4 +1,4 @@
-# Funactions-Challenge-
+# Functions-Challenge-
 Rock Paper Scissors Game!
 Task 1: See if the user wants to play
 Task 2: Set up the game.
